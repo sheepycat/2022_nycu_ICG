@@ -1,0 +1,8 @@
+﻿  main.cpp
+D:\大三上\計圖學\HW4 (1)\HW4\HW4\main.cpp(204,62): warning C4267: '引數': 將 'size_t' 轉換為 'GLsizei'，資料可能遺失
+D:\大三上\計圖學\HW4 (1)\HW4\HW4\main.cpp(222,61): warning C4267: '引數': 將 'size_t' 轉換為 'GLsizei'，資料可能遺失
+D:\大三上\計圖學\HW4 (1)\HW4\HW4\main.cpp(231,36): warning C4244: '+=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\大三上\計圖學\HW4 (1)\HW4\HW4\main.cpp(233,20): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\大三上\計圖學\HW4 (1)\HW4\HW4\main.cpp(114,27): warning C4101: 'boxTexture': 未參考的區域變數
+D:\大三上\計圖學\HW4 (1)\HW4\HW4\main.cpp(114,15): warning C4101: 'catTexture': 未參考的區域變數
+  HW4.vcxproj -> D:\大三上\計圖學\HW4 (1)\HW4\x64\Debug\HW4.exe

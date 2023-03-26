@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\大三上\計圖學\hw1\HW1_release\ICG_HW1\main.cpp(347,60): warning C4267: '引數': 將 'size_t' 轉換為 'GLsizei'，資料可能遺失
+D:\大三上\計圖學\hw1\HW1_release\ICG_HW1\main.cpp(352,59): warning C4267: '引數': 將 'size_t' 轉換為 'GLsizei'，資料可能遺失
+D:\大三上\計圖學\hw1\HW1_release\ICG_HW1\main.cpp(357,60): warning C4267: '引數': 將 'size_t' 轉換為 'GLsizei'，資料可能遺失
+D:\大三上\計圖學\hw1\HW1_release\ICG_HW1\main.cpp(362,62): warning C4267: '引數': 將 'size_t' 轉換為 'GLsizei'，資料可能遺失
+D:\大三上\計圖學\hw1\HW1_release\ICG_HW1\main.cpp(367,60): warning C4267: '引數': 將 'size_t' 轉換為 'GLsizei'，資料可能遺失
+  ICG_HW1.vcxproj -> D:\大三上\計圖學\hw1\HW1_release\x64\Debug\ICG_HW1.exe

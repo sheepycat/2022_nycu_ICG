@@ -1,5 +1,5 @@
-# 2022_nycu_ICG_lab
-Introduction to Computer Graphics\
+# 2022_nycu_ICG
+Introduction to Computer Graphics - Labs\
 2022 Fall, by Prof. 林奕成
 
 ### Labs
